@@ -1,0 +1,3 @@
+[submodule "extern/py-lyfe"]
+	path = extern/py-lyfe
+	url = git@github.com:galactic-filament/py-lyfe.git
