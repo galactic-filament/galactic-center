@@ -1,3 +1,6 @@
 [submodule "extern/py-lyfe"]
 	path = extern/py-lyfe
 	url = git@github.com:galactic-filament/py-lyfe.git
+[submodule "extern/spicy-djalapeno"]
+	path = extern/spicy-djalapeno
+	url = git@github.com:galactic-filament/spicy-djalapeno.git
