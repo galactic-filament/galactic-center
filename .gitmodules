@@ -4,3 +4,6 @@
 [submodule "extern/spicy-djalapeno"]
 	path = extern/spicy-djalapeno
 	url = git@github.com:galactic-filament/spicy-djalapeno.git
+[submodule "extern/crazy-train"]
+	path = extern/crazy-train
+	url = git@github.com:galactic-filament/crazy-train.git
